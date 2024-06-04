@@ -1,0 +1,9 @@
+{
+	"name": "medalliondfa",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7e58d30d-fbac-4479-bd20-fe1eef8691b6",
+		"tenantId": "5011c7c6-0ab4-46ab-9ef4-fae74a921a7f"
+	}
+}
